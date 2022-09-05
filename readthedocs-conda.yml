@@ -19,7 +19,7 @@ dependencies:
   - pbr==3.1.1
   - psutil==5.4.3
   - pyparsing==2.2.0
-  - python-slugify==1.2.4
+  - python-slugify==5.0.2
   - pytz==2017.3
   - requests==2.18.4
   - six==1.11.0
